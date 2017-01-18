@@ -334,7 +334,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 735QGT93G2;
-				GCC_PREFIX_HEADER = /Users/liushuo/Desktop/SureGuideView/SureGuideView/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SureGuideView/PrefixHeader.pch";
 				INFOPLIST_FILE = SureGuideView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yongche.sure.SureGuideView;
@@ -347,7 +347,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 735QGT93G2;
-				GCC_PREFIX_HEADER = /Users/liushuo/Desktop/SureGuideView/SureGuideView/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SureGuideView/PrefixHeader.pch";
 				INFOPLIST_FILE = SureGuideView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yongche.sure.SureGuideView;
